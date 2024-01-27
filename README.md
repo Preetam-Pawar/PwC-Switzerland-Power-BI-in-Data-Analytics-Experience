@@ -9,3 +9,5 @@ Possible KPIs include (to get you started, but not limited to):
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+![Screenshot 2024-01-27 125246](https://github.com/Preetam-Pawar/PwC-Switzerland-Power-BI-in-Data-Analytics-Experience/assets/93385110/87931d97-df4f-4216-8ed1-3dfbc78e8b82)
