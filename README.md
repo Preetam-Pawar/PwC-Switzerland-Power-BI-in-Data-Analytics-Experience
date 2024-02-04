@@ -12,7 +12,7 @@ Possible KPIs include (to get you started, but not limited to):
 
 ![Screenshot 2024-01-27 125246](https://github.com/Preetam-Pawar/PwC-Switzerland-Power-BI-in-Data-Analytics-Experience/assets/93385110/87931d97-df4f-4216-8ed1-3dfbc78e8b82)
 
-#**Task 2: Customer Retention**
+**Task 2: Customer Retention**
 
 A few weeks after you deliver your dashboard to management, the telecom's Retention Manager contacts you personally. He was thrilled with your work and requested if you might create a dashboard on client retention.
 
