@@ -55,5 +55,6 @@ Here is a hint: Calculating the following measures could help to define proper K
 ![Screenshot 2024-02-04 234255](https://github.com/Preetam-Pawar/PwC-Switzerland-Power-BI-in-Data-Analytics-Experience/assets/93385110/4a304720-f0fa-4977-b79a-fc0d2c7f8ea4)
 
 **Reference**
-[Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
+
+- [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
 
